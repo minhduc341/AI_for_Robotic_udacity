@@ -1,0 +1,38 @@
+https://www.youtube.com/watch?v=BNOuC87M1rI&list=PLAwxTw4SYaPkCSYXw6-a_aAoXVKLDwnHK&index=328
+
+https://github.com/ibiscp/Udacity-Artificial-Intelligence-for-Robotics
+
+https://github.com/jeremy-shannon/udacity-AI-for-robotics/tree/master/Project%20-%20Runaway%20Robot
+
+https://github.com/qqrs/udacity-cs373
+
+https://github.com/northerncat/UdacityRunawayRobot
+
+https://github.com/adammalpass/uda_ai/tree/master/runaway_robot
+
+### discussion forum
+https://discussions.udacity.com/search?q=runaway%20robot
+https://discussions.udacity.com/t/kalman-filter-for-runaway-robot/37966
+
+### Let's try this next time for part 2
+Least Squares Circle Calculator
+https://www.had2know.org/academics/best-fit-circle-least-squares.html
+
+###Visualize exams
+https://github.com/daniel-s-ingram/ai_for_robotics
+https://github.com/ioarun/ai-for-robotics-udacity/tree/master/visual-implementation
+
+###Guide how to do project
+https://github.com/Shaoqian/Udacity-Runaway-Robot-Project
+
+###guide of runaway robot part2 
+https://github.com/adammalpass/uda_ai/blob/master/runaway_robot/part2.py
+https://discussions.udacity.com/t/i-used-the-same-code-for-the-runaway-robot-with-and-without-noise/119084
+
+###simple kalman filter to track a robot in circular motion
+https://gist.github.com/kkweon/89fcf07705a3e4f68179362912e164e4
+https://www.udacity.com/wiki/cs373/kalman-filter-matrices#r-the-covariance-matrix-of-the-measurement-vector-z
+
+### Extended kalman filter
+https://homes.cs.washington.edu/~todorov/courses/cseP590/readings/tutorialEKF.pdf
+https://math.etsu.edu/multicalc/prealpha/Chap3/Chap3-3/printversion.pdf
