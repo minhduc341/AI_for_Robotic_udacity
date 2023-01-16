@@ -1,2 +1,2 @@
 # AI_for_Robotic_udacity
-AI fir robotics course in Udacity
+AI for robotics course in Udacity
